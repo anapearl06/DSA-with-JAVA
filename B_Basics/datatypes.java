@@ -6,7 +6,7 @@ public class datatypes {
         int age = 20;
 
         // Decimal number
-        double height = 5.6;
+        double height = 5.7;
 
         // Single character
         char grade = 'A';
