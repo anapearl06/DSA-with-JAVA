@@ -1,3 +1,4 @@
+package Questions;
 public class number_3
 {
     public static void main()
