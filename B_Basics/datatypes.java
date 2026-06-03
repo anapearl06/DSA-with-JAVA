@@ -1,3 +1,4 @@
+package B_Basics;
 public class datatypes {
     public static void main() {
 
