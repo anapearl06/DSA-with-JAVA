@@ -3,6 +3,6 @@ class Hello
 {
     static void main()
     {
-        System.out.println("Ana is here to learn Java.");
+        System.out.println("Ana is here to learn JAVA.");
     }
 }
