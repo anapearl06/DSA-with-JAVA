@@ -1,9 +1,8 @@
-import com.sun.tools.javac.Main;
-
+package A_Basics;
 class Hello
 {
-    static void main() {
+    static void main()
+    {
         System.out.println("Ana is here to learn Java.");
-
     }
 }
