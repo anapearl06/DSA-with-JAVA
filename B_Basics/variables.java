@@ -1,4 +1,6 @@
-public class variables {
+package B_Basics;
+public class variables
+{
     public static void main()
     {
         // Integer variable
