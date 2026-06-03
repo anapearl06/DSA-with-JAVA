@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class temperature_8
 {
-    public static void main()
+    static void main()
     {
         Scanner sc = new Scanner(System.in);
 

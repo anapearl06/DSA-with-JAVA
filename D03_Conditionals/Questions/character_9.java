@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class character_9
 {
-    public static void main()
+    static void main()
     {
         Scanner sc = new Scanner(System.in);
 

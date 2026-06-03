@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class largest_7 {
-    public static void main()
+    static void main()
     {
         Scanner sc = new Scanner(System.in);
 

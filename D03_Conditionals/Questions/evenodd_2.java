@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class evenodd_2
 {
-    public static void main()
+    static void main()
     {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");

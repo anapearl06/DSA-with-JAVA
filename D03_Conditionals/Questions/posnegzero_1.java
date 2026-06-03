@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class posnegzero_1 {
 
-    public static void main()
+    static void main()
     {
 
         Scanner sc = new Scanner(System.in);
