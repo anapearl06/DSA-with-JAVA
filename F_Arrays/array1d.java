@@ -1,4 +1,4 @@
-package F05_Arrays;
+package F_Arrays;
 public class array1d
 {
     public static void main()
