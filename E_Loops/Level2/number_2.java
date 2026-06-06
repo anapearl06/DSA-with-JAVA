@@ -1,0 +1,22 @@
+package E_Loops.Level2;
+import java.util.Scanner;
+public class number_2
+{
+    public static void main()
+    {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+        int num = sc.nextInt();
+
+        int reverse = 0;
+
+        while (num > 0)
+        {
+            int digit = num % 10;
+            reverse = reverse * 10 + digit;
+            num = num / 10;
+        }
+        System.out.println("Reverse number = " + reverse);
+    }
+}
